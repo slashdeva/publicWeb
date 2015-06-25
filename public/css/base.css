@@ -1,0 +1,14 @@
+@font-face{
+	font-family:"KoPubDotumMedium";
+	src:local(※), url('/fonts/KoPubDotumMedium.woff') format('woff');
+}
+
+@font-face{
+	font-family:"KoPubDotumLight";
+	src:local(※), url('/fonts/KoPubDotumLight.woff') format('woff');
+}
+
+@font-face{
+	font-family:"KoPubDotumBold";
+	src:local(※), url('/fonts/KoPubDotumBold.woff') format('woff');
+}

@@ -1,0 +1,23 @@
+{
+  "name": "publicweb",
+  "version": "0.0.1",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components",
+    "bower_components",
+    "public/components",
+    "test",
+    "tests"
+  ],
+  "homepage": "https://github.com/Gnuvill2ndGen/publicWeb",
+  "authors": [
+    "helloziki <hoonycho12@gmail.com>"
+  ],
+  "description": "public gnuvill web",
+  "main": "Gruntfile.js",
+  "keywords": [
+    "node.js"
+  ],
+  "license": "MIT"
+}
